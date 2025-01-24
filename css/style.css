@@ -1,0 +1,27 @@
+h1{
+background-color: lightcyan;
+color: purple;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 46px;
+font-weight: bold;
+}
+
+body{
+background-color: lightyellow;
+}
+
+img{
+    border: 5px solid pink;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: purple;
+}
